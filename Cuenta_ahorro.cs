@@ -8,7 +8,7 @@ namespace Banco
     {
         float cuotaMantenimiento;
 
-        public Cuenta_ahorro(float cuotaMantenimiento):base()
+        public Cuenta_ahorro(float cuotaMantenimiento)
         {
             this.cuotaMantenimiento = cuotaMantenimiento;
         }
